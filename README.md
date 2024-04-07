@@ -10,8 +10,11 @@ Welcome to the ToDo List application! This is a simple web-based task management
 - Local storage support to persist tasks even after closing the browser.
 - Responsive design for various screen sizes.
 
-## Technologies used
+## Technologies Used
 
-  -HTML5
-  -CSS3
-  -JAVASCRIPT
+This project makes use of the following technologies:
+
+- HTML: Used for structuring the web page.
+- CSS: Used for styling and layout.
+- JavaScript: Used for implementing dynamic behavior and functionality.
+
